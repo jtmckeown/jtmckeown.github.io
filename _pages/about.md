@@ -9,4 +9,4 @@ redirect_from:
 
 I'm James, an Undergraduate Physics & Astronomy major at the University of Rochester. My research includes protostellar disk analysis and electron wavepacket simulations.
 
-Feel free to browse the tabs above to learn more about my [research](https://jtmckeown.github.io/research/), and I can be reached via email at [contact](https://jtmckeown.github.io/contact/).
+Feel free to browse the tabs above to learn more about my [research](https://jtmckeown.github.io/research/), and I can be reached via [email](jmckeown@u.rochester.edu).
