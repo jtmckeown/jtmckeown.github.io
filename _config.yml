@@ -21,7 +21,7 @@ repository               : "jtmckeown/jtmckeown.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_.jpg"
+  avatar           : "jamesMcKeownLLEHeadshot.jpg"
   name             : "James McKeown"
   pronouns         : # example: "he/him"  
   bio              : "Undergraduate Physics & Astronomy"
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=ty9cn_MAAAAJ&hl=el&oi=sra"
+  # googlescholar    : "https://scholar.google.com/citations?user=ty9cn_MAAAAJ&hl=el&oi=sra"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-7587-7072"
+  orcid            : "https://orcid.org/0009-0001-8472-2486"
   semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "diongak"
+  github           : "jtmckeown"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
