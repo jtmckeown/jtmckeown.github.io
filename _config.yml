@@ -22,13 +22,13 @@ repository               : "jtmckeown/jtmckeown.github.io"
 author:
   # Biographic information
   avatar           : "photo_.jpg"
-  name             : "Dionysis Gakis"
+  name             : "James McKeown"
   pronouns         : # example: "he/him"  
-  bio              : "Astrophysicist on the training"
-  location         : "Austin, TX, USA"
-  employer         : "The University of Texas at Austin"
+  bio              : "Undergraduate Physics & Astronomy"
+  location         : "Rochester, NY, USA"
+  employer         : "University of Rochester"
   uri              : # URL
-  email            : "dgakis@utexas.edu" 
+  email            : "jmckeown@u.rochester.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
